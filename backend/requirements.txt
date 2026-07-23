@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+python-dotenv
+requests
+torch
+transformers
+huggingface-hub
+fastapi
+uvicorn
+pysqlite3-binary
